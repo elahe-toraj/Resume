@@ -302,6 +302,13 @@ a {
   align-items: center;
 }
 
+.click {
+  font-size: small;
+  color: gold;
+  display: inline; 
+}
+
+
 .circle-group{
   display: flex;
 }
